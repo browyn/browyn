@@ -11,12 +11,12 @@ Hi, I'm <a href="">Browyn Louis</a>, a passionate and innovative self-taught ful
 
 <h5>Languages, tools & resources</h5>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50" height="50">
-<br>
+
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50" height="50">
-<br>
-<img src="https://flyclipart.com/thumb2/computer-icons-logo-brand-javascript-javaserver-pages-free-892749.png" width="50" height="50">
-<br>
+
+<img src="https://flyclipart.com/thumb2/computer-icons-logo-brand-javascript-javaserver-pages-free-892749.png" width="60" height="50">
+
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50" height="50">
-<br>
+
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50" height="50">
-<br>
+
