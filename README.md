@@ -7,3 +7,6 @@ Hi, I'm <a href="">Browyn Louis</a>, a passionate and innovative self-taught ful
   or
   <li> Wanna have a chat ? Don't hesitate to reach out to me via <b><a href="mailto:browynlouis2@gmail.com">email</a></b></li>
 </ul>
+
+
+<h3>Languages, tools & resources</h3>
