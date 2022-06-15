@@ -10,3 +10,5 @@ Hi, I'm <a href="">Browyn Louis</a>, a passionate and innovative self-taught ful
 
 
 <h5>Languages, tools & resources</h5>
+<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png">
+<br>
