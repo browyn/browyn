@@ -1,4 +1,4 @@
-# Browyn Louis
+### Browyn Louis
 
 Hi, I'm [Browyn Louis](https://browynlouis.com/), a passionate and innovative self-taught full-stack web developer, having 3+ years of experience in both learning to code and freelancing as a web developer. I am quite adept in coding and mark-up languages and in creating applications using client server model and can do so many things when it comes to web development.
 
