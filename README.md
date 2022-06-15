@@ -9,4 +9,4 @@ Hi, I'm <a href="">Browyn Louis</a>, a passionate and innovative self-taught ful
 </ul>
 
 
-<h6>Languages, tools & resources</h6>
+<h5>Languages, tools & resources</h5>
