@@ -9,5 +9,5 @@ Hi, I'm [Browyn Louis](https://browynlouis.com/), a passionate and innovative se
 </ul>
 
 
-<h5>Languages, tools & resources</h5>
+##### Languages, tools & resources
 
