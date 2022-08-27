@@ -8,6 +8,17 @@ Hi, I'm [Browyn Louis](https://browynlouis.com/), a passionate and innovative se
   <li> Wanna have a chat ? Don't hesitate to reach out to me via <b><a href="mailto:browynlouis2@gmail.com">email</a></b></li>
 </ul>
 
+### Skills
 
-##### Languages, tools & resources
+##### Languages
+
+HTML | CSS | JavaScript | PHP
+
+##### Frameworks
+
+Laravel | React.js | Vue.js
+
+##### Tools 
+
+Vscode | Figma | Heroku | Docker | 
 
