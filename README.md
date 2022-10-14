@@ -4,7 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Hi, I am Louis, An entry level full stack web developer, with 2+ years experience on real time and personal projects I build responsive websites and WebApps with modern and fluid layouts. Having worked on multiple personal and a few clients projects on both frontend and backend web development, I have great skills in delivery proficient, well written and beautiful web projects, I have worked with and skilled in the following languages, tools and frameworks; HTML | CSS | SCSS | Bootstrap | JavaScript | React js | PHP Laravel | Git and GitHub | Heroku | Docker | Figma
+<p>Hello there, welcome to my home on the internet.
+                            First of all, let me introduce myself, my name's <strong>Ogharadukun-Brown Meyiwa Louis</strong>, popularly known on the internet as <strong>Browyn Louis</strong>. I'm currently in my 4<sup>th</sup> year out of 4 at the
+                            <strong>
+                                <a href="https://uniben.edu.ng"> University of Benin, Nigeria.</a>
+                            </strong>
+                            <br /><br />
+                            Naturally curious, creative and problem solving driven is how I would describe myself as an individual in my regular daily activities and much more when it comes to hands on code.<br />
+                            I find value in building and developing web pages and web apps with clean and exquisite user interfaces, having knowledge on progressive libraries &amp; frameworks such as <strong>React</strong> and <strong>Laravel</strong> as a stronghold.
+                            <br /><br />
+                            With garnered 2+ years of experience in web development and a few freelance opportunities (want to discuss a project? <a href="mailto:browynlouis2@gmail.com"><strong>mail me</strong></a> or give me a <a href="tel:+234-813-853-6999"><strong>call</strong></a>), I am quietly confident, and always improving my core technical skills & knowledge. I do my best to keep service above self, accept the most scrupulous, honest and ethical process of thought in my daily and professional work and to employ more efficient and economical ways of getting things done appropriately.
+                            <br /><br />
+                            When I'm not in front of a computer screen, I'm probably in front of my book, reading or ticking off an item on my bucket list.
+
+                        </p>
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [browynlouis2@gmail.com](mailto:browynlouis2@gmail.com)
