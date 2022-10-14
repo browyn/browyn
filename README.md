@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Meyiwa Louis Oghrandukun-Brown
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================================
 
 Full Stack Web Developer
 ------------------------
 
-<p>Hello there, welcome to my home on the internet.
+Hello there, welcome to my home on the internet.
                             First of all, let me introduce myself, my name's <strong>Ogharadukun-Brown Meyiwa Louis</strong>, popularly known on the internet as <strong>Browyn Louis</strong>. I'm currently in my 4<sup>th</sup> year out of 4 at the
                             <strong>
                                 <a href="https://uniben.edu.ng"> University of Benin, Nigeria.</a>
@@ -16,8 +16,6 @@ Full Stack Web Developer
                             With garnered 2+ years of experience in web development and a few freelance opportunities (want to discuss a project? <a href="mailto:browynlouis2@gmail.com"><strong>mail me</strong></a> or give me a <a href="tel:+234-813-853-6999"><strong>call</strong></a>), I am quietly confident, and always improving my core technical skills & knowledge. I do my best to keep service above self, accept the most scrupulous, honest and ethical process of thought in my daily and professional work and to employ more efficient and economical ways of getting things done appropriately.
                             <br /><br />
                             When I'm not in front of a computer screen, I'm probably in front of my book, reading or ticking off an item on my bucket list.
-
-                        </p>
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [browynlouis2@gmail.com](mailto:browynlouis2@gmail.com)
